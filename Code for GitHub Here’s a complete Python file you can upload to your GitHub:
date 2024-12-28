@@ -1,0 +1,57 @@
+# Assignment Operators in Python
+
+# Basic Assignment
+x = 10
+print("Basic Assignment:", x)
+
+# Add and Assign
+x += 3
+print("Add and Assign:", x)
+
+# Subtract and Assign
+x -= 2
+print("Subtract and Assign:", x)
+
+# Multiply and Assign
+x *= 4
+print("Multiply and Assign:", x)
+
+# Divide and Assign
+x /= 2
+print("Divide and Assign:", x)
+
+# Floor Division and Assign
+x //= 3
+print("Floor Division and Assign:", x)
+
+# Modulus and Assign
+x %= 2
+print("Modulus and Assign:", x)
+
+# Exponentiation and Assign
+x = 2
+x **= 3
+print("Exponentiation and Assign:", x)
+
+# Bitwise AND and Assign
+x = 5
+x &= 3
+print("Bitwise AND and Assign:", x)
+
+# Bitwise OR and Assign
+x |= 2
+print("Bitwise OR and Assign:", x)
+
+# Bitwise XOR and Assign
+x ^= 3
+print("Bitwise XOR and Assign:", x)
+
+# Right Shift and Assign
+x = 8
+x >>= 2
+print("Right Shift and Assign:", x)
+
+# Left Shift and Assign
+x = 3
+x <<= 2
+print("Left Shift and Assign:", x)
